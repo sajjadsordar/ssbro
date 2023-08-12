@@ -91,7 +91,7 @@ ha = current.day
 today = date.today()
 os.system('xdg-open https://www.facebook.com/profile.php?id=100066332015845/')
 logo =("""\033[0;92m
-    _____             _      _         _____  
+_____             _      _         _____  
   / ____|  /\       | |    | |  /\   |  __ \ 
  | (___   /  \      | |    | | /  \  | |  | |
   \___ \ / /\ \ _   | |_   | |/ /\ \ | |  | |
